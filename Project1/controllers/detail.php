@@ -8,5 +8,13 @@
  */
 class detail
 {
+    public function __construct()
+    {
 
+    }
+
+    public function load_view()
+    {
+
+    }
 }
